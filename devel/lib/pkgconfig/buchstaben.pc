@@ -1,0 +1,8 @@
+prefix=/home/ros/Projektarbeit-Softwaretechnik-WS19/devel
+
+Name: buchstaben
+Description: Description of buchstaben
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/ros/Projektarbeit-Softwaretechnik-WS19/devel/lib 
+Requires: 
